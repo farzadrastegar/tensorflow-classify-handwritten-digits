@@ -1,3 +1,5 @@
-# Assorted tutorials
+Classifying handwritten digits using tensorflow:1.11.0-rc2 in jupyter notebook ep7.ipynb.
 
-General disclaimer, this is my personal repo and not an official Google product. If you'd like to use this code, say, to build a mission critical component of your giant space laser, you should know there's no warranty, etc.
+Docker repository: https://hub.docker.com/r/tensorflow/tensorflow/
+Docker tags: 1.11.0-rc2
+source: https://www.youtube.com/watch?v=Gj0iyo265bc
